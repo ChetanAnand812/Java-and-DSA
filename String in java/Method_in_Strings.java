@@ -34,7 +34,7 @@ public class Method_in_Strings {
         System.out.println("Sub String is : " + sentence.substring(4,6));
         
 
-        // Strings are Immutable
+        // Strings are Immutable 
 
     }
 }
