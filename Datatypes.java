@@ -4,7 +4,10 @@ public class Datatypes {
         int b = 20;
         int sum = a + b;
 
-        System.out.println("Sumb is" + sum);
+        // System.out.println("Sum is" + sum);
+
+        int diff = b - a;
+        System.out.println("Difference is" + diff);;
     }
-    
+
 }

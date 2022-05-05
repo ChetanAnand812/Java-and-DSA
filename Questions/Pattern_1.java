@@ -6,7 +6,6 @@ public class Pattern_1 {
         System.out.println("****");
         System.out.println("*****");
         System.out.println("******");
-        System.out.println("*******");
     }
-    
+
 }

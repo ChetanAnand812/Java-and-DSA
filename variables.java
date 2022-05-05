@@ -11,6 +11,7 @@ public class variables {
         name = "ironman";
 
         System.out.println(b);
+        System.out.println(name);
 
     }
     

@@ -9,7 +9,7 @@ public class Input {
         //nextInt()
         //nextFloat()
         //nextdouble()
-        System.out.println(name); 
+        System.out.println("Your name is: "+ name); 
         
     }
     
