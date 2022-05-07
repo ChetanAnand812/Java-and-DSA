@@ -5,14 +5,21 @@ public class switch_break {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Button");
         int button = sc.nextInt();
-        switch(button){
-            case 1 : System.out.println("Hello");
-            break;
-            case 2 : System.out.println("Namaste");
-            break;
-            case 3 : System.out.println("Bonjour");
-            break;
-            default : System.out.println("Invalid Button");
+
+        switch (button) {
+            case 1:
+                System.out.println("hello");
+                break;
+            case 2:
+                System.out.println("Namaste");
+                break;
+            case 3:
+                System.out.println("Banjour");
+                break;
+
+            default:
+                System.out.println("invalid button");
+                break;
         }
     }
 }
