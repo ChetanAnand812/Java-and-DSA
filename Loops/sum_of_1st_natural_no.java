@@ -7,7 +7,7 @@ public class sum_of_1st_natural_no {
         int n = sc.nextInt();
         int sum = 0; 
 
-        for(int i = 1;i <= n; i++){
+        for(int i=1;i<=n;i++){
             sum = sum + i;
         }
         System.out.println("sum of no is " + sum);

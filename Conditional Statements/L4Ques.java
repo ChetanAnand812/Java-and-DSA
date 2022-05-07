@@ -6,11 +6,8 @@ public class L4Ques {
         int n = sc.nextInt();
 
         for(int i = 0; i<=n;i++){
-            if(n%2==0){
-                System.out.println("Even Number");
-            }
-            else{
-                System.out.println("Odd Number");
+            if(i%2==0){
+                System.out.println(i);
             }
         }
 
