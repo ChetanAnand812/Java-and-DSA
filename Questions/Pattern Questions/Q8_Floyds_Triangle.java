@@ -11,7 +11,6 @@ public class Q8_Floyds_Triangle {
                 System.out.print(number+" ");
                 number++;
             }
-
             System.out.println();
         }
     }
