@@ -22,6 +22,11 @@ public class Method_in_Strings {
         }
 
         // compare
+        /*
+            1. s1 > s2 : +ve value
+            2. s1 == s2 : 0
+            3. s1 < s2 : -ve value
+        */
         if(first.compareTo(second) == 0){
             System.out.println("Strings are equal.");
         }
@@ -31,7 +36,7 @@ public class Method_in_Strings {
 
         // substring(begning index, ending index)
         String sentence = "My name is Chetan";
-        System.out.println("Sub String is : " + sentence.substring(4,6));
+        System.out.println("Sub String is : " + sentence.substring(4,6)); // it will return 4 to 6-1 index value
         
 
         // Strings are Immutable 
