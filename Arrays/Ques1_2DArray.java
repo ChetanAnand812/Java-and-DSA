@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Ques1_2DArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

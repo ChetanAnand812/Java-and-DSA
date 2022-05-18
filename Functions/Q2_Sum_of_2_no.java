@@ -13,7 +13,7 @@ public class Q2_Sum_of_2_no {
         System.out.println("enter b:");
         int b = sc.nextInt();
 
-        int sum = calculateSum(a, b);
+        int sum = calculateSum(a, b); // call
         System.out.println("Sum of a and b is " +sum);
     }
 }
